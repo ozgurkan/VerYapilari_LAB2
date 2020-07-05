@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522607893 source:c:\users\ozgur\desktop\vylab22\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<math.h>
+	<unistd.h>
+	<unistd.h>
+	<windows.h>
+
