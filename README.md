@@ -1,0 +1,1 @@
+# VerYapilari_LAB2
